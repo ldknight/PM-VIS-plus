@@ -1,0 +1,18 @@
+# 表示两者的对应关系索引
+# imagenet21的对应类别 https://www.image-net.org/api/imagenet.bbox.obtain_synset_wordlist.php
+# 下载方式 e.g. https://image-net.org/data/winter21_whole/n02510455.tar
+OVIS-name        OVIS-id      imagenet21k-name      imagenet21k-id        imagenet21k-name 
+------------------------------------------------------------------------
+Bird             2               n01503061              1                   Bird
+Poultry          12              n01791625              2                    chicken
+Giant_panda      13              n02510455              3          giant panda, panda
+Lizard           14              n01674464              4               Lizard
+Parrot           15              n01816887              5         parrot
+Monkey           16              n02484322              6                   monkey
+Rabbit           17              n02324045              7        rabbit, coney, cony
+Tiger            18              n02129604              8        tigerPantheratigris
+Fish             19              n02512053              9               fish
+Turtle           20              n01662784             10               turtle
+Poultry          12              n01846331             11                    duck
+Poultry          12              n01855672             12                    goose
+

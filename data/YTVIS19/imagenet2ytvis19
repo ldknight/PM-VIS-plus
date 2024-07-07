@@ -1,0 +1,27 @@
+# 表示两者的对应关系索引
+# imagenet21的对应类别 https://www.image-net.org/api/imagenet.bbox.obtain_synset_wordlist.php
+# 下载方式 e.g. https://image-net.org/data/winter21_whole/n02510455.tar
+YTVIS2019-name   YTVIS2019-id    imagenet21k-name      imagenet21k-id        imagenet21k-name 
+------------------------------------------------------------------------
+giant_panda      2               n02510455              21                   giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca
+lizard           3               n01674464              6                    lizard
+parrot           4               n01816887              8                    parrot
+ape              7               n02470325              18                   ape
+snake            9               n01726692              7                    snake, serpent, ophidian
+monkey           10              n02484322              20                   monkey
+hand             11              n03482523              27                   hand
+rabbit           12              n02324045              15                   rabbit, coney, cony
+duck             13              n01846331              9                    duck
+fish             16              n02512053              22                   fish
+turtle           19              n01662784              5                    turtle
+bear             20              n02131653              14                   bear
+fox              24              n02118333              12                   fox
+deer             25              n02430045              17                   deer
+owl              26              n01621127              3                    owl, bird of Minerva, bird of night, hooter
+tiger            31              n02129604              13                   tiger, Panthera tigris
+shark            35              n01482330              1                    shark
+mouse            36              n02330245              16                   mouse
+frog             37              n01639765              4                    frog, toad, toad frog, anuran, batrachian, salientian
+eagle            38              n01613294              2                    eagle, bird of Jove
+earless_seal     39              n02076196              11                   seal
+

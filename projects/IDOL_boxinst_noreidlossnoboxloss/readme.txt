@@ -1,0 +1,1 @@
+在boxinst的基础上 去除reidloss和boxloss

@@ -1,0 +1,28 @@
+# 表示两者的对应关系索引
+# imagenet21的对应类别 https://www.image-net.org/api/imagenet.bbox.obtain_synset_wordlist.php
+# 下载方式 e.g. https://image-net.org/data/winter21_whole/n02510455.tar
+YTVIS2021-name   YTVIS2021-id    imagenet21k-name      imagenet21k-id        imagenet21k-name 
+------------------------------------------------------------------------
+deer             8               n02430045              1                   deer
+duck             10              n01846331              2                   duck
+earless_seal     11              n02076196              3                   seal
+fish             13              n02512053              4                   fish
+fox              15              n02118333              5                   fox
+frog             16              n01639765              6                   frog
+giant_panda      17              n02510455              7                   giantpanda,panda,pandabear,coonbear,Ailuropoda melanoleuca
+leopard          20              n02128385              8                   leopard, Panthera pardus
+lizard           21              n01674464              9                   lizard
+monkey           22              n02484322              10                  monkey
+mouse            24              n02330245              11                  mouse
+parrot           25              n01816887              12                  parrot
+rabbit           27              n02324045              13                  rabbit
+shark            28              n01482330              14                  shark
+snake            30              n01726692              15                  snake, serpent, ophidian
+squirrel         32              n02355227              16                  squirrel
+tiger            35              n02129604              17                  tiger, Panthera tigris
+turtle           38              n01662784              18                  turtle
+whale            39              n02062744              19                  whale
+
+
+# ###########
+相对于ytvis2019有两个独特的squirrel、whale
